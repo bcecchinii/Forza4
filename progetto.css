@@ -1,0 +1,10 @@
+article a{font-size:50px;}
+h1{font-size:100px;color:white;text-shadow:-5px 0 black,0 5px black, 0 -3px black;border:5px solid black;}
+header{background:#13bd21;}
+article p{margin-bottom:20px;}
+article{background:#e7cc7a;margin-top:10px;}
+div{margin-top:5px;margin-bottom:5px;}
+.documentazione{float:right;}
+article h2{font-size:50px;background:yellow;color:black;border:3px solid black;}
+p{font-size:20px;margin-top:10px;}
+img{margin-left:20px;margin-right:20px;margin-top:15px;}
